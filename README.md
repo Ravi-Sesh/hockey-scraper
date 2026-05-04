@@ -62,7 +62,7 @@ playwright install
 
 ---
 
-## ▶️ Run the Scraper
+## Run the Scraper
 
 ```bash
 python HockeyScraper.py
